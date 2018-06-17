@@ -57,7 +57,7 @@ mickey.y = 23
 transition.to(mickey, {x=300, y=600})
 
 -- create the text object at position
-textObject = display.newText ("Moving Images", 30, 50, nil, 50)
+textObject = display.newText ("Mouving Images", 30, 50, nil, 50)
 
 -- anchor the text from the top left corner
 textObject.anchorX = 0
